@@ -26,7 +26,7 @@ I am a Software Engineer specializing in full-stack JavaScript development and b
 
 ### 🚀 Featured Projects
 
-**[DermaVista](https://github.com/Sohaib-Kamal04/DermaVista)** *(If repository is public)*
+**[DermaVista](https://github.com/Sohaib-Kamal04/DermaVista)**
 > A 100% offline edge-computing AI diagnostic system using a quantized MobileNetV3 CNN. Engineered to execute heavy tensor preprocessing on background Dart Isolates, preventing main-thread UI blocking and resolving critical GPU memory exhaustion. 
 
 **Crisp Cleaning**
